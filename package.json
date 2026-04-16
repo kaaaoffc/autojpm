@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "axios": "^0.24.0",
-    "baileys": "github:Fyxzpedia-Git/baileys",
+    "baileys": "github:kaaaoffc/baileys",
     "pino": "latest",
     "fs": "^0.0.1-security",
     "node-fetch": "latest", 
