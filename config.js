@@ -1,10 +1,10 @@
 const fs = require("fs");
 
-global.owner = "6283167484316"
+global.owner = "6285137572401"
 global.namaOwner = "Fyxzpedia"
 global.prefix = ".";
 global.botName = "Simple-Script";
-global.pairingNumber = "6283167484316"
+global.pairingNumber = "6285137572401"
 
 global.idSaluran = "120363402625644245@newsletter";
 global.namaSaluran = "Powered by Fyxzpedia";
